@@ -5,9 +5,3 @@
  */
 
 // Self host fonts using Typefaces.js https://github.com/KyleAMathews/typefaces
-
-// Load Monoton typeface
-require('typeface-monoton');
-
-// Load Ramaraja typeface
-require('typeface-ramaraja');
